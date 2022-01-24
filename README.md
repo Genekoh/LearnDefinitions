@@ -4,7 +4,7 @@
 
 This program is written using python and uses the GUI Framework, PySimpleGUI.
 
-### To use this program type:
+### To use this program type console:
 
 ```
     python main.py *file name*
